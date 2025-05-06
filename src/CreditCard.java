@@ -1,4 +1,4 @@
-public class CreditCard implements IPayguement {
+public class CreditCard implements IPayment {
     private final String cardNumber;
     private final String cardHolderName;
     private final String expiryDate;

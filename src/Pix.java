@@ -1,4 +1,4 @@
-public class Pix implements IPayguement {
+public class Pix implements IPayment {
     private final String pixKey;
     private final String accountHolderName;
     private final String bankName;
